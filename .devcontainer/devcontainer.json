@@ -1,0 +1,11 @@
+{
+    "name": "COMP423 Go Notes",
+    "image": "mcr.microsoft.com/devcontainers/go:latest",
+    "customizations": {
+      "vscode": {
+        "settings": {},
+        "extensions": ["golang.go"]
+      }
+    }
+  }
+  
